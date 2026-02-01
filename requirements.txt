@@ -1,0 +1,18 @@
+# Urdu Computational Philology Toolkit - Dependencies
+
+# Core Python
+python>=3.8
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Text Processing
+regex>=2022.7.9
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter for examples
+jupyter>=1.0.0
